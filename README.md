@@ -20,9 +20,9 @@ Creates form dynamically based on JSON data
  - Relaxed font/color composition 
   
 # Future improvements:
- - improve input validation (e.g. default validation for email only checks if @ is present, but not if a domain name is in the text)
- - make input fields required based on JSON data
- - possibly add autocompletion for certain fields (e.g. job title)
+ - Improve input validation (e.g. default validation for email only checks if @ is present, but not if a domain name is in the text)
+ - Make input fields required based on JSON data
+ - Possibly add autocompletion for certain fields (e.g. job title)
  
 # demo
 ![](demo/demo.gif)
