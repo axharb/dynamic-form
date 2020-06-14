@@ -1,7 +1,7 @@
 # dynamic-form
 Creates form dynamically based on JSON data
 
-# set up
+# Set up
 - download the repo
 - navigate to repo location, and run the following commands:
 - $ npm install
@@ -24,5 +24,5 @@ Creates form dynamically based on JSON data
  - Make input fields required based on JSON data
  - Possibly add autocompletion for certain fields (e.g. job title)
  
-# demo
+# Demo
 ![](demo/demo.gif)
