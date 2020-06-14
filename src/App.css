@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'montserratlight';
+  src: url('./Fonts/montserrat-light-webfont.woff2') format('woff2'),
+       url('./Fonts/montserrat-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body {
+  padding-bottom: 300px;
+}
+    
+.Form-container {
+  font-family: 'montserratlight';
+  padding-top: 30px;
+  margin: auto;
+  width: 50%;
+}
+
+.Form {
+  font-family: 'montserratlight';
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 10px 2px;
+}
+
+.Form-title {
+  text-align: center;
+  color: rgba(45, 171, 255, 0.884);
+}
+
+.Form-label {
+  font-size: 11px;
+  text-align: left;
+}
+
+.Form-input{
+  font-family: 'montserratlight';
+  border-radius: 5px;
+  margin-top: 5px;
+  line-height: 1.5em;
+  border-width: thin;
+  border-color: rgb(202, 202, 202);
+}
+
+.Form-input:focus {
+  outline: none !important;
+  box-shadow: 0 0 5px #719ECE;
+}
+
+.Form-field {
+  padding: .5em;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Form_button {
+  font-family: 'montserratlight';
+  border-radius: 5px;
+  background-color: rgba(45, 171, 255, 0.884);
+  color: rgb(255, 255, 255);
+  margin: auto;
+  margin-top: 50px;
+  border: none;
+  padding: 5px;
+}
