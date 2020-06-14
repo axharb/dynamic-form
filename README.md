@@ -2,8 +2,8 @@
 Creates form dynamically based on JSON data
 
 # set up
-1-download the repo
-2-navigate to repo location, and run the following commands:
+-download the repo
+-navigate to repo location, and run the following commands:
 $ npm install
 $ npm start
 
@@ -27,4 +27,4 @@ $ npm start
   -possibly add autocompletion for certain fields (e.g. job title)
  
 # demo
-[](demo/demo.gif)
+![](demo/demo.gif)
